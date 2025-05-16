@@ -3,6 +3,7 @@
 🚀 Tech enthusiast from Maharashtra  
 💻 Passionate about Web Development, JavaScript  
 📚 Currently learning: Full Stack Devloper with experties frontend, backend & database techonologies. 
+
 🎯 Goal: Build full-stack web's and contribute to open source  
 
 ## 🔧 Projects
@@ -15,8 +16,9 @@ Front-End Techonologies:
 `HTML` `JavaScript` `React` `Tailwind CSS`
 Backend Techonologies:
 `Node.js` `Express` `Restful Api's`
-Techonologies: "Git & Github" "Bootstrap" "Terminal"
-Database: `MongoDb, MYSQL
+Database: `MongoDb` `MYSQL`
+Techonologies: `Git & Github` `Bootstrap` `Terminal`
+
 
 
 ## 📫 Connect with Me
