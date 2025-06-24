@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Tech enthusiast from Maharashtra<br>💻 Passionate about Web Development, JavaScript<br>📚 Currently learning: Full Stack Devloper with experties frontend, backend & database techonologies.<br><br>🎯 Goal: Build full-stack web's and contribute to open source
+🚀 Tech enthusiast<br>💻 Passionate about Web Development, JavaScript<br>📚 Currently learning: Full Stack Devloper with experties frontend, backend & database techonologies.<br><br>🎯 Goal: Build full-stack web's and contribute to <b>open source</b>
 
 
 ## 🌐 Socials:
