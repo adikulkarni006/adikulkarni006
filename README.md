@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adi_kulkarni_006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/advait-kulkarni-73b1a0327) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:advaitkulkarni006@gmail.com)
-[![Linktree](https://img.shields.io/badge/Linktree%2328A745.svg?logo=Linktree&logoColor=green)](https://linktr.ee/advaitkulkarni006)
+[![Linktree](https://img.shields.io/badge/Linktree-%2328A745.svg?logo=Linktree&logoColor=green)](https://linktr.ee/advaitkulkarni006)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/adikulkarni006/)
 
 
