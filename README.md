@@ -1,8 +1,7 @@
-<!-- <img src="https://github.com/deepanshu-prajapati01/deepanshu-prajapati01/blob/main/Banner%202.jpg"/> -->
 <!-- <img src="./Banner.png"/> -->
 
 
-<h1>👋 Hello there, I'm Adi Kulkarni</h1>
+<h1>👋 Hello there, I'm Advait Kulkarni</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EB4F7&width=700&lines=Full+Stack+Web+Developer;JavaScript+Enthusiast;Open+Source+Learner;Computer+Science+Student)](https://git.io/typing-svg)
 
@@ -65,11 +64,13 @@ I love learning by building projects and continuously improving my skills to bec
 ---
 
 ## 📊 GitHub Analytics
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=adikulkarni006&theme=tokyonight&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adikulkarni006&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adikulkarni006&layout=compact&theme=tokyonight" height="150"/>
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adikulkarni006&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adikulkarni006&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adikulkarni006&layout=compact&theme=tokyonight)
+
 
 ---
 
@@ -80,8 +81,14 @@ I love learning by building projects and continuously improving my skills to bec
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adikulkarni006&theme=tokyonight&no-frame=true)
+## 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adikulkarni006/adikulkarni006/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adikulkarni006/adikulkarni006/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/adikulkarni006/adikulkarni006/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
 
