@@ -1,4 +1,6 @@
 <!-- <img src="https://github.com/deepanshu-prajapati01/deepanshu-prajapati01/blob/main/Banner%202.jpg"/> -->
+<img src="./Banner.png"/>
+
 
 <h1>👋 Hello there, I'm Adi Kulkarni</h1>
 
