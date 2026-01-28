@@ -1,8 +1,8 @@
-<h1>👋 Hello there, I'm Advait Kulkarni</h1>
+<h1>👋 Hello there, I'm <i>Advait Kulkarni!</i></h1>
 
 <div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EB4F7&width=700&lines=Full+Stack+Web+Developer;JavaScript+Enthusiast;Open+Source+Learner;Computer+Science+Undergrad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=0EB4F7&width=700&lines=Web+Developer;JavaScript+Developer;MERN+Stack+Developer;Computer+Science+Undergraduate)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,16 +12,17 @@
   <tr>
     <td>
 
-<h1>💫 About Me</h1>
+<h1>💫 About Me!</h1>
 
-- 💻 Passionate about **Web Development & JavaScript**
-- 🚀 Building projects using **MERN Stack**
-- 🌱 Exploring **Open Source & Real-world Applications**
-- 🧠 Strong interest in **Frontend Animations & UI Design**
-- 🎓 B.Sc. Computer Science Student
+- 💻 Web Developer with strong focus on **JavaScript and modern web technologies**
+- 🚀 Developing and deploying projects using the **MERN Stack**
+- 🌱 Actively contributing to and exploring **Open Source and real-world applications**
+- 🧠 Interested in building **responsive UIs, frontend animations, and clean user experiences**
+- 🎯 Actively seeking **internship or entry-level opportunities** to apply and grow my skills
 
-I believe in learning by building projects and improving consistently.  
-Focused on becoming a **job-ready full-stack developer** 🚀
+I focus on building practical projects, writing clean code, and continuously improving my skills.
+Motivated to contribute to a professional team as a **Full-Stack Web Developer**.
+🚀
 
 </td>
 <td>
@@ -68,6 +69,9 @@ Focused on becoming a **job-ready full-stack developer** 🚀
   <a href="https://instagram.com/adi_kulkarni_006"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/advaitkulkarni006"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:advaitkulkarni006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linktr.ee/advaitkulkarni006">
+    <img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=black"/>
+  </a>
 </p>
 
 ---
@@ -76,7 +80,7 @@ Focused on becoming a **job-ready full-stack developer** 🚀
 
 ### 🧠 Programming Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript  (ES6+)](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### ⚛️ Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -87,12 +91,19 @@ Focused on becoming a **job-ready full-stack developer** 🚀
 ### 🛠 Backend & Tools
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge)
+
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ### 🗄️ Databases & Hosting
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB (Atlas)](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
