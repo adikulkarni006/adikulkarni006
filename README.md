@@ -4,7 +4,7 @@
 
 <div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=0EB4F7&width=700&lines=Web+Developer;JavaScript+Developer;MERN+Stack+Developer;Computer+Science+Undergraduate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=0EB4F7&width=600&lines=Web+Developer;JavaScript+Developer;MERN+Stack+Developer;Computer+Science+Undergraduate)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,13 +14,13 @@
   <tr>
     <td>
 
-<h1>💫 About Me!</h1>
+<h2>💫 About Me!</h2>
 
 - 💻 Web Developer with strong focus on **JavaScript and modern web technologies**
 - 🚀 Developing and deploying projects using the **MERN Stack**
 - 🌱 Actively contributing to and exploring **Open Source and real-world applications**
 - 🧠 Interested in building **responsive UIs, frontend animations, and clean user experiences**
-- 🎯 Actively seeking **internship or entry-level opportunities** to apply and grow my skills
+- 🎯 Seeking **internship or entry-level opportunities in Full-Stack Development**
 
 I focus on building practical projects, writing clean code, and continuously improving my skills.
 Motivated to contribute to a professional team as a **Full-Stack Web Developer**.
