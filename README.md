@@ -1,5 +1,8 @@
-<h1>👋 Hello there, I'm
-  <i><span style="color:#8A2FF5;">Advait Kulkarni!</span></i>
+<h1>
+  👋 Hello there, I'm
+  <a href="https://github.com/adikulkarni006">
+    <img src="https://img.shields.io/badge/Advait_Kulkarni-8A2FF5?style=for-the-badge&logo=github&logoColor=white" alt="Advait Kulkarni" />
+  </a>
 </h1>
 
 <div>
@@ -37,9 +40,9 @@ Motivated to contribute to a professional team as a **Full-Stack Web Developer**
 
 ## 📊 GitHub Analytics
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=adikulkarni006&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adikulkarni006&theme=tokyonight&hide_border=false" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adikulkarni006&theme=tokyonight&hide_border=false&layout=compact" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adikulkarni006&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adikulkarni006&theme=tokyonight&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adikulkarni006&theme=tokyonight&hide_border=false&layout=compact" height="150"/>
 </p>
 
 <p>
@@ -48,9 +51,9 @@ Motivated to contribute to a professional team as a **Full-Stack Web Developer**
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Graph (Stock-Market Style)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adikulkarni006&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adikulkarni006&theme=chartreuse-dark&hide_border=true&area=true" alt="Stock Market Style Contribution Graph" />
 </p>
 
 ---
@@ -62,12 +65,15 @@ Motivated to contribute to a professional team as a **Full-Stack Web Developer**
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adikulkarni006/adikulkarni006/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/adikulkarni006/adikulkarni006/output/github-snake.svg" />
   </picture>
+  <br/>
+  <sub>🐍 My contributions being devoured by a hungry snake! <em>(Auto-updates via GitHub Actions)</em></sub>
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 <p>
+  <a href="https://github.com/adikulkarni006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://instagram.com/adi.kulkarni__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/advaitkulkarni006"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:advaitkulkarni006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -82,7 +88,7 @@ Motivated to contribute to a professional team as a **Full-Stack Web Developer**
 
 ### 🧠 Programming Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript  (ES6+)](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript (ES6+)](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### ⚛️ Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -113,4 +119,7 @@ Motivated to contribute to a professional team as a **Full-Stack Web Developer**
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=adikulkarni006&icon=1&color=1)](https://visitcount.itsvg.in)
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adikulkarni006&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
