@@ -7,7 +7,7 @@
 
 <div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=0EB4F7&width=600&lines=Web+Developer;JavaScript+Developer;MERN+Stack+Developer;Computer+Science+Undergraduate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=0EB4F7&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Expert;Open+Source+Contributor;SSOC+'26+Mentor)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,6 +24,7 @@
 - 🌱 Actively contributing to and exploring **Open Source and real-world applications**
 - 🧠 Interested in building **responsive UIs, frontend animations, and clean user experiences**
 - 🎯 Seeking **internship or entry-level opportunities in Full-Stack Development**
+- 🌟 **Contributor & Mentor at SSOC '26**
 
 I focus on building practical projects, writing clean code, and continuously improving my skills.
 Motivated to contribute to a professional team as a **Full-Stack Web Developer**.
@@ -39,22 +40,50 @@ Motivated to contribute to a professional team as a **Full-Stack Web Developer**
 ---
 
 ## 📊 GitHub Analytics
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=adikulkarni006&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adikulkarni006&theme=tokyonight&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adikulkarni006&theme=tokyonight&hide_border=false&layout=compact" height="150"/>
-</p>
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adikulkarni006&theme=tokyonight"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 20px; background: #0d1117; border-radius: 10px;">
+        <h3>📝 Total Contributions</h3>
+        <h2 style="color: #8A2FF5;">650+</h2>
+        <p><i>Jan 8, 2025 - Present</i></p>
+      </td>
+      <td align="center" style="padding: 20px; background: #0d1117; border-radius: 10px;">
+        <h3>🔥 Current Streak</h3>
+        <h2 style="color: #FF6B00;">11 Days</h2>
+        <p><i>Jul 20 - Jul 30</i></p>
+      </td>
+      <td align="center" style="padding: 20px; background: #0d1117; border-radius: 10px;">
+        <h3>⚡ Longest Streak</h3>
+        <h2 style="color: #00C7B7;">11 Days</h2>
+        <p><i>Jul 20 - Jul 30</i></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 20px; background: #0d1117; border-radius: 10px;">
+        <h3>📦 Public Repos</h3>
+        <h2 style="color: #8A2FF5;">37</h2>
+      </td>
+      <td align="center" style="padding: 20px; background: #0d1117; border-radius: 10px;">
+        <h3>📅 GitHub Joined</h3>
+        <h2 style="color: #FF6B00;">1 Year Ago</h2>
+      </td>
+      <td align="center" style="padding: 20px; background: #0d1117; border-radius: 10px;">
+        <h3>👥 Followers</h3>
+        <h2 style="color: #00C7B7;">10+</h2>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📈 Contribution Graph (Stock-Market Style)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adikulkarni006&theme=chartreuse-dark&hide_border=true&area=true" alt="Stock Market Style Contribution Graph" />
-</p>
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adikulkarni006&theme=react-dark&hide_border=true&area=true&color=8A2FF5&line=8A2FF5&point=FFFFFF" width="100%" />
+</div>
 
 ---
 
@@ -72,14 +101,38 @@ Motivated to contribute to a professional team as a **Full-Stack Web Developer**
 ---
 
 ## 🌐 Connect with Me
+
+### 🌐 Portfolio
+<p>
+  <a href="https://advaitkulkarni.me/"><img src="https://img.shields.io/badge/Primary_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://advait-kulkarni-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Alternate_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Portfolio"/></a>
+  <a href="https://linktr.ee/advaitkulkarni006"><img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree"/></a>
+</p>
+
+### 💻 Development
 <p>
   <a href="https://github.com/adikulkarni006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://instagram.com/adi.kulkarni__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/advaitkulkarni006"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:advaitkulkarni006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linktr.ee/advaitkulkarni006">
-    <img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=black"/>
-  </a>
+  <a href="https://leetcode.com/u/adikulkarni006/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.skills.google/public_profiles/8003ac00-1922-47fb-9c19-c2ecf0c275ed"><img src="https://img.shields.io/badge/Google_Skills-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Skills"/></a>
+</p>
+
+### 👔 Professional
+<p>
+  <a href="https://www.linkedin.com/in/advaitkulkarni006/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.fiverr.com/users/adikulkarni6"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
+</p>
+
+### 📱 Social
+<p>
+  <a href="https://www.instagram.com/adi.kulkarni__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://x.com/Advaitk006"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="https://open.spotify.com/user/31rfwc4fdwob7pkjwsee7kdk7evu"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
+</p>
+
+### 📧 Email
+<p>
+  <a href="mailto:advaitkulkarni006@gmail.com"><img src="https://img.shields.io/badge/Primary_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Primary Email"/></a>
+  <a href="mailto:kulkarniadvait156@gmail.com"><img src="https://img.shields.io/badge/Secondary_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Secondary Email"/></a>
 </p>
 
 ---
@@ -100,7 +153,6 @@ Motivated to contribute to a professional team as a **Full-Stack Web Developer**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge)
-
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ### 🗄️ Databases & Hosting
@@ -114,12 +166,23 @@ Motivated to contribute to a professional team as a **Full-Stack Web Developer**
 
 ---
 
+## ☕ Support My Work
+<p>
+  <a href="https://razorpay.me/@advaitkulkarni"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FF813F?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee"/></a>
+</p>
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adikulkarni006&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
+<div align="center">
+  <h3><i>"Code. Build. Learn. Ship. Repeat." 🚀</i></h3>
+  
+  <img src="https://komarev.com/ghpvc/?username=adikulkarni006&label=Profile%20Views&color=8A2FF5&style=for-the-badge" />
+  
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2FF5&height=100&section=footer" />
+</div>
